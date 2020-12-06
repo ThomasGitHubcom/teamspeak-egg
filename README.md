@@ -80,6 +80,12 @@ teamspeak-egg is GNU **General Public License v3.0**. Please check the [License]
 
 ## Changelog
 
+### 1.2.2 (2020-12-06)
+
+Performance:
+Bugfixes:
+- moved tsversion from 3.12.1 to 3.13.2
+
 ### 1.2.1 (2019-06-09)
 
 Features:
