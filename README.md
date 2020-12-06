@@ -28,9 +28,9 @@ check the update documentation on the [documentation page](https://pterodactyl.i
 
 ### <a name="egg"></a> 2. Import the Egg
 
-1. **Clone** the github repository `git clone git@github.com:JPylypiw/teamspeak-egg.git`
+1. **Clone** the github repository `git clone git@github.com:ThomasGitHubcom/teamspeak-egg.git`
 
-    or **download** the egg script [here](https://raw.githubusercontent.com/JPylypiw/teamspeak-egg/master/egg-teamspeak3-server.json)
+    or **download** the egg script [here](https://raw.githubusercontent.com/ThomasGitHubcom/teamspeak-egg/master/egg-teamspeak3-server.json)
 1. go to **Nests** in you pterodactyl panel
 1. If you don't have a Nest for your custom Eggs, please create one.
 
